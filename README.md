@@ -2,8 +2,6 @@
 
 A small Windows program that records your mouse clicks and key presses, lets you edit the pauses between them, and plays them back as often as you like, for anyone who repeats the same clicks every day.
 
-> Screenshot: add `docs/screenshot.png` (placeholder line — leave it exactly like this for GUI apps)
-
 ## What it does
 - Records left mouse clicks (screen position) and every key you press and release.
 - Stores the pause before each step, so playback keeps your timing.
