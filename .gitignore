@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+# Saved macros can contain typed text (passwords): keep them out of the repo
+*.json
